@@ -2,11 +2,12 @@
 ## Mini workshop
 ![](flow.PNG)
 ## Utility CSS
-<p style="text-align: center;">
+<p >
    <img src="utilitycss.jpg" width="150px">
 </p>
 <h2>Schedule</h2>
-<table style="width:100%">
+<div>
+   <table style="width:100%">
   <tr>
     <th>Time</th>
     <th>Topic</th> 
@@ -16,7 +17,7 @@
     <td>10.00 AM</td>
     <td>SQL server</td> 
     <td>
-        <img src="paramat.jpg" width="40px">
+        <img src="Paramat.jpg" width="40px">
         Paramat Singkon
     </td>
   </tr>
@@ -46,6 +47,7 @@
   </tr>
 </table>
 
+   </div>
 <h2>Requirement for workshop</h2>
 <ul>
     <li>Your notebook MacOs/Window/Linux</li>
