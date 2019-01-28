@@ -50,6 +50,6 @@
    </div>
 <h2>Requirement for workshop</h2>
 <ul>
-    <li>Your notebook MacOs/Window/Linux</li>
+    <li>Your labtop MacOs/Window/Linux</li>
     <li>Docker Engine</li>
 </ul>
