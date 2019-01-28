@@ -9,7 +9,7 @@
 <div>
    <table style="width:100%">
   <tr>
-    <th>Time</th>
+    <th>Star time</th>
     <th>Topic</th> 
     <th>Speaker</th>
   </tr>
@@ -30,7 +30,7 @@
     </td>
   </tr>
   <tr>
-    <td>13.00 AM</td>
+    <td>13.30 AM</td>
     <td>React</td> 
      <td>
         <img src="Nuttawat.jpg" width="40px">
@@ -38,7 +38,7 @@
     </td>
   </tr>
   <tr>
-    <td>14.00 AM</td>
+    <td>14.30 AM</td>
     <td>Utility CSS</td> 
     <td>
         <img src="Thanapong.jpg" width="40px">
