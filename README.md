@@ -30,7 +30,7 @@
     </td>
   </tr>
   <tr>
-    <td>13.30 AM</td>
+    <td>13.30 PM</td>
     <td>React</td> 
      <td>
         <img src="Nuttawat.jpg" width="40px">
@@ -38,7 +38,7 @@
     </td>
   </tr>
   <tr>
-    <td>14.30 AM</td>
+    <td>14.30 PM</td>
     <td>Utility CSS</td> 
     <td>
         <img src="Thanapong.jpg" width="40px">
