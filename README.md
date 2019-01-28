@@ -9,7 +9,7 @@
 <div>
    <table style="width:100%">
   <tr>
-    <th>Star time</th>
+    <th>Start time</th>
     <th>Topic</th> 
     <th>Speaker</th>
   </tr>
