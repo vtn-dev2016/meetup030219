@@ -14,7 +14,7 @@
     <th>Speaker</th>
   </tr>
   <tr>
-    <td>10.00 AM - 11.00 AM</td>
+    <td>10.00 AM - 11.00 AM at Joint Space ubon</td>
     <td>SQL server</td> 
     <td>
         <img src="Paramat.jpg" width="40px">
